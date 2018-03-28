@@ -1,0 +1,4 @@
+- Make buttons Work
+- Refactor checkboxes to be reusable.
+- Implement Time Picker
+- Implement MobX for state management.
